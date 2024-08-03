@@ -16,8 +16,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tabletopandroid-airport-kaia-alliance\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\tabletopandroid-airport-kaia-alliance</OutputDir>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-kaia-alliance\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\tabletopandroid-airport-kaia-alliance\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
