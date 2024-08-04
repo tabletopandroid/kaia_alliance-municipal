@@ -1,0 +1,10 @@
+{
+  "package-name": "tabletopandroid-airport-kaia-alliance",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KAIA",
+      "revision": 1
+    }
+  ]
+}

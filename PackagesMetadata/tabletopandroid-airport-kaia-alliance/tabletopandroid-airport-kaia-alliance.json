@@ -1,0 +1,10 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "KAIA",
+      "latitude": 42.05322224646807,
+      "longitude": -102.80375003814697
+    }
+  ]
+}

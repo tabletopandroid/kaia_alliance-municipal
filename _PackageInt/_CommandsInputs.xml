@@ -1,0 +1,13 @@
+<CommandsInputs>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\kaia_alliance-municipal\PackageDefinitions\tabletopandroid-airport-kaia-alliance\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="tabletopandroid-airport-kaia-alliance" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\kaia_alliance-municipal\PackageSources\Scenery\airport-kaia-alliance\scenery\KAIA.xml" Failure="0">
+		<Package Name="tabletopandroid-airport-kaia-alliance" Failure="0">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</File>
+</CommandsInputs>
+
